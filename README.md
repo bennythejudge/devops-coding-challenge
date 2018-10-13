@@ -1,6 +1,8 @@
 Infrastructure Coding Test
 ==========================
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/devops-coding-challenge.svg)](https://www.guardrails.io)
+
 # Goal
 
 Script the creation of a web server, and a script to check the server is up.
